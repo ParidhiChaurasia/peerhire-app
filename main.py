@@ -4,7 +4,7 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"message": "API is live 🎉"}
+    return {"message": "API is live"}
 
 # keep your other routes here...
 from fastapi import FastAPI
