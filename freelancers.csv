@@ -1,0 +1,51 @@
+id,name,skills,experience,rate,past_projects
+1,Freelancer_1,"Data Analysis, TensorFlow, Django",9.9,94,"Project_91, Project_55"
+2,Freelancer_2,"Machine Learning, JavaScript, Django, Python, NumPy",9.3,17,"Project_72, Project_25"
+3,Freelancer_3,"Python, JavaScript, React",3.4,31,"Project_58, Project_18, Project_28, Project_24"
+4,Freelancer_4,"Python, Machine Learning, NLP, Flask, React",2.4,61,Project_92
+5,Freelancer_5,"NumPy, Computer Vision, Web Development, SQL, React",3.7,92,"Project_39, Project_84"
+6,Freelancer_6,"JavaScript, TensorFlow, Web Development, Django",5.2,52,"Project_46, Project_38"
+7,Freelancer_7,"Data Analysis, AWS, Python, Pandas, Computer Vision",4.8,77,"Project_29, Project_26, Project_38, Project_84"
+8,Freelancer_8,"SQL, TensorFlow, Machine Learning, Web Development, JavaScript, Python",5.8,56,"Project_40, Project_33"
+9,Freelancer_9,"Python, Data Analysis, Computer Vision, Django, Machine Learning",9.8,24,Project_64
+10,Freelancer_10,"React, Pandas, Web Development, Computer Vision, Django, Python",1.1,67,"Project_83, Project_92, Project_69, Project_59"
+11,Freelancer_11,"TensorFlow, Python, NLP, Machine Learning, NumPy, Data Analysis",5.7,76,Project_63
+12,Freelancer_12,"React, Data Analysis, Web Development",7.8,35,"Project_6, Project_76"
+13,Freelancer_13,"Flask, NumPy, Computer Vision, Machine Learning, NLP, Python",8.2,45,"Project_98, Project_76, Project_33, Project_86"
+14,Freelancer_14,"NLP, Computer Vision, Python, Pandas, AWS, NumPy",2.6,93,"Project_93, Project_88, Project_72, Project_17"
+15,Freelancer_15,"Web Development, JavaScript, Django, NumPy, Pandas",3.4,69,"Project_65, Project_78, Project_87, Project_39"
+16,Freelancer_16,"Web Development, NLP, SQL, Machine Learning, Django, Pandas",9.9,86,"Project_84, Project_71"
+17,Freelancer_17,"AWS, Web Development, NLP, Flask, TensorFlow, Django",3.3,62,"Project_12, Project_36, Project_81, Project_1"
+18,Freelancer_18,"Python, Computer Vision, SQL",3.3,75,"Project_71, Project_100, Project_15"
+19,Freelancer_19,"Computer Vision, Python, Django",4.9,59,"Project_16, Project_44, Project_79, Project_43"
+20,Freelancer_20,"NLP, React, Pandas, Machine Learning, JavaScript",3.2,38,"Project_17, Project_14, Project_52, Project_76"
+21,Freelancer_21,"JavaScript, Pandas, Django, Data Analysis, NLP, AWS",6.9,50,"Project_84, Project_75"
+22,Freelancer_22,"NumPy, Data Analysis, React",2.0,39,"Project_40, Project_8"
+23,Freelancer_23,"React, Machine Learning, Web Development, Pandas",4.3,91,"Project_66, Project_1, Project_55, Project_15"
+24,Freelancer_24,"JavaScript, SQL, TensorFlow, NLP, Django, Data Analysis",5.6,22,Project_67
+25,Freelancer_25,"AWS, TensorFlow, Python",5.0,58,"Project_38, Project_86, Project_7"
+26,Freelancer_26,"NLP, Machine Learning, Computer Vision, Data Analysis, JavaScript",4.2,58,"Project_75, Project_12, Project_60"
+27,Freelancer_27,"Web Development, AWS, NLP, TensorFlow",4.1,18,"Project_82, Project_29, Project_100"
+28,Freelancer_28,"Flask, AWS, Django",7.0,32,Project_97
+29,Freelancer_29,"Flask, Data Analysis, SQL, NLP, NumPy, Python",5.2,19,"Project_6, Project_13"
+30,Freelancer_30,"JavaScript, TensorFlow, Django, NLP",7.6,44,"Project_74, Project_60, Project_93"
+31,Freelancer_31,"Pandas, NumPy, AWS, SQL, NLP",1.3,87,"Project_83, Project_48, Project_1, Project_95"
+32,Freelancer_32,"Django, Flask, Computer Vision",3.0,21,"Project_1, Project_21, Project_23"
+33,Freelancer_33,"AWS, Web Development, SQL",7.0,23,"Project_53, Project_37, Project_74, Project_19"
+34,Freelancer_34,"Computer Vision, Web Development, Machine Learning, JavaScript",3.5,49,Project_29
+35,Freelancer_35,"NumPy, Computer Vision, NLP",6.9,94,"Project_65, Project_72, Project_74, Project_75"
+36,Freelancer_36,"Machine Learning, Python, Flask, AWS, SQL, React",1.2,27,"Project_39, Project_1, Project_68, Project_29"
+37,Freelancer_37,"Machine Learning, TensorFlow, Python, Web Development",9.4,20,"Project_39, Project_29, Project_35"
+38,Freelancer_38,"Python, Django, NLP, Web Development, Pandas, React",9.1,50,Project_75
+39,Freelancer_39,"SQL, Django, Flask",2.2,39,"Project_39, Project_97, Project_46, Project_36"
+40,Freelancer_40,"React, TensorFlow, NLP",5.1,58,Project_50
+41,Freelancer_41,"Python, Computer Vision, React, JavaScript",5.7,99,"Project_99, Project_30, Project_34"
+42,Freelancer_42,"TensorFlow, NumPy, SQL, AWS",6.9,100,Project_57
+43,Freelancer_43,"Pandas, Python, Web Development, NumPy, Computer Vision",2.8,97,Project_32
+44,Freelancer_44,"Web Development, SQL, Flask, Python, NLP, Data Analysis",3.8,68,"Project_12, Project_59"
+45,Freelancer_45,"Pandas, Web Development, Flask, NLP, NumPy",9.2,85,Project_58
+46,Freelancer_46,"JavaScript, Flask, React, TensorFlow, Computer Vision, NumPy",6.2,54,"Project_89, Project_41"
+47,Freelancer_47,"TensorFlow, AWS, Data Analysis, NumPy, JavaScript",8.4,62,Project_6
+48,Freelancer_48,"AWS, Python, React",1.4,36,"Project_99, Project_14, Project_56"
+49,Freelancer_49,"NumPy, Machine Learning, Python, React, AWS, Pandas",2.9,96,"Project_14, Project_38, Project_43, Project_90"
+50,Freelancer_50,"Computer Vision, React, Python",6.0,91,"Project_4, Project_26"

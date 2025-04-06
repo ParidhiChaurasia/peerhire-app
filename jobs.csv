@@ -1,0 +1,21 @@
+id,title,required_skills,budget,timeline_days
+1,Job_1,"Computer Vision, SQL",965,30
+2,Job_2,"TensorFlow, Computer Vision, SQL, NumPy",1330,31
+3,Job_3,"React, JavaScript, Web Development",952,35
+4,Job_4,"Flask, NLP, AWS, Python",236,57
+5,Job_5,"NumPy, Python, AWS, React, Web Development",341,47
+6,Job_6,"TensorFlow, Python",623,47
+7,Job_7,"Machine Learning, Web Development, React, Flask",385,20
+8,Job_8,"Computer Vision, AWS, Pandas, TensorFlow",319,45
+9,Job_9,"Pandas, Django, SQL, Data Analysis, Python",740,56
+10,Job_10,"Machine Learning, Data Analysis, Flask",1206,54
+11,Job_11,"Machine Learning, Flask, JavaScript, AWS",1068,11
+12,Job_12,"Pandas, Data Analysis",1637,20
+13,Job_13,"NumPy, Python",1183,39
+14,Job_14,"Machine Learning, Pandas, TensorFlow, Django, Flask",1821,48
+15,Job_15,"React, NumPy, Flask, Python",209,39
+16,Job_16,"Django, SQL, Web Development, Machine Learning",301,27
+17,Job_17,"Computer Vision, TensorFlow, AWS",1620,44
+18,Job_18,"Web Development, React, Data Analysis",456,9
+19,Job_19,"Data Analysis, React, Pandas",1814,17
+20,Job_20,"Django, TensorFlow, Data Analysis, NLP, Machine Learning",1321,14
