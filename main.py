@@ -1,4 +1,13 @@
 from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def root():
+    return {"message": "API is live 🎉"}
+
+# keep your other routes here...
+from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
 import pandas as pd
